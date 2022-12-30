@@ -11,6 +11,13 @@ fruits.sort()
 fruits.push(Kiwi)
 
 /*Remove “Apples” from the array. Don’t use the same method as in part 1.*/
+
+/******************************************************
+Correcteur: Yannick GOUGUIA
+
+Revoir cet exercice, mauvaise reponse
+
+*****************************************************/
 fruits.splice
 
 /*Sort the array in reverse order. (Not alphabetical... i.e. [‘a’, ‘c’, ‘b’] becomes [‘b’, ‘c’, ‘a’])*/
