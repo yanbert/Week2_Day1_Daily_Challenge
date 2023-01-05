@@ -6,7 +6,14 @@ fruits.shift(0, 1)
 /*Sort the array in alphabetical order.*/
 fruits.sort()
 
+/**
+Correcteur: Yannick GOUGUIA
 
+Il faut au minimum tester tes codes.
+
+ligne 17: Kiwi n'est pas une variable, il manque des ""
+ligne 21: splice est une fonction, il manque des () et des parametres
+*/
 /*Add “Kiwi” to the end of the array.*/
 fruits.push(Kiwi)
 
